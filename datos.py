@@ -1,4 +1,6 @@
 import pandas as pd
+
+
 ventas = pd.read_csv("sales_data_2023.csv")
 print(ventas.head())
 
