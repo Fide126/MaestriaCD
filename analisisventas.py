@@ -8,3 +8,5 @@ ventas = [100, 150, 200]
 plt.bar(productos, ventas)
 plt.title('Ventas por Producto')
 plt.show()
+
+
